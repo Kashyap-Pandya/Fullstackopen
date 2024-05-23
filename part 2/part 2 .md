@@ -1,2 +1,0 @@
-phonebook - 2.16.-2.17.
-countries - 2.18.-2.20.
